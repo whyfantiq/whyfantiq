@@ -9,7 +9,7 @@
 
 ### About
 
-Full-stack developer
+Learning network engineering & sysdev.
 
 <br>
 
