@@ -9,7 +9,7 @@
 
 ### About
 
-Java Developer focused on clean, efficient code and practical solutions. Constantly learning new tools and languages, and always looking for the next challenge to build something solid.
+Full-stack developer
 
 <br>
 
