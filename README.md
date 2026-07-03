@@ -1,18 +1,3 @@
-<h1 align="left">whyfantiq</h1>
-
-<p align="left">
-  <a href="https://t.me/whyfantiq"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" /></a>
-  <a href="https://instagram.com/whyfantiq"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
-<br>
-
-### About
-
-Learning network engineering & sysdev.
-
-<br>
-
 ### Tools
 
 <p align="left">
